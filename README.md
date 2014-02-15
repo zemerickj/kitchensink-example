@@ -10,7 +10,7 @@ Create an account at http://openshift.redhat.com/
 
 Create a jbossas-7 application
 
-    rhc app create -a kitchensink -t jbossas-7 --from-code git://github.com/openshift/kitchensink-example.git
+    rhc app create kitchensink jbossas-7 --from-code git://github.com/openshift/kitchensink-example.git
 
 That's it, you can now checkout your application at:
 
