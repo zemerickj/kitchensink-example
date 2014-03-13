@@ -6,7 +6,7 @@ This is the kitchensink JBoss Quickstart app.  You can find more info @ https://
 Running on OpenShift
 --------------------
 
-Create an account at http://openshift.redhat.com/
+Create an account at https://www.openshift.com
 
 Create a jbossas-7 application
 
