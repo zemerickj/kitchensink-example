@@ -191,7 +191,6 @@
 			<version>2.50.1</version>
 		</dependency>
 
-
 	</dependencies>
 
 	<build>
@@ -206,8 +205,11 @@
 				<version>2.11</version>
 				<configuration>
 					<excludes>
-						<exclude>**/*Test.java</exclude>
+						<exclude>**/*IT.java</exclude>
 					</excludes>
+					<includes>
+						<include>**/*Test.java</include>
+					</includes>
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
