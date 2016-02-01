@@ -152,6 +152,13 @@
          given to the generated war, and hence the context root) -->
       <finalName>${project.artifactId}</finalName>
       <plugins>
+
+	<plugin>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-maven-plugin</artifactId>
+      <version>9.3.0.v20150612</version>
+    </plugin>
+
          <!-- Compiler plugin enforces Java 1.6 compatibility and activates 
             annotation processors -->
          <plugin>
