@@ -4,5 +4,5 @@
 */
 
 var ThirdPartyWidgets = [
-	{"name":"graph-widget", "location":"http://localhost:9999/pages/index.html", "width":"1000px", "height":"420px"}
+	{"name":"graph-widget", "location":"", "width":"1000px", "height":"420px"}
 ];
