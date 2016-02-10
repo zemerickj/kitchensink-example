@@ -4,5 +4,5 @@
 */
 
 var ThirdPartyWidgets = [
-	{"name":"graph-widget", "location":"", "width":"1000px", "height":"420px"}
+	{"name":"graph-widget", "location":"http://thirdpartybeta-aocdemo.rhcloud.com/pages/index.html", "width":"1000px", "height":"420px"}
 ];
